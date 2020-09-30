@@ -1,4 +1,4 @@
-Logr
+Logr - A platform which includes other level of blogging
 ====
  - - -
 
